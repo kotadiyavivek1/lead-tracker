@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#input-el{
+    min-width: 400px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-color: green;
+}
+#input-btn,#save-tab{
+    padding: 10px 20px;
+    background-color: green;
+    color: aliceblue;
+    font:bold;
+    border:none;
+}
+#delete-btn{
+    padding: 10px 20px;
+    background-color: aliceblue;
+    color: GREEN;
+    border: 1px solid green;
+    font: bold;
+}
+ul{
+    list-style-type: none;
+    color: green;
+    padding: 0;
+    margin: 0%;
+    
+}
+.myClass{
+    color: green;
+}
+a{
+    color: green;
+}
